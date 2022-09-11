@@ -1,6 +1,8 @@
 # legendary-adventure
 trying optimal repository setup
 
+![Tests](https://github.com/AaronBraatz/legendary-adventure/blob/main/.github/workflows/test.yml/badge.svg)
+
 1. follow James Murphy's "Automated Testing in Python with pytest, tox, and GitHub Actions" (https://www.youtube.com/watch?v=DhUpxWjOhME)
 
 
